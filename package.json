@@ -1,0 +1,19 @@
+{
+  "name": "nodebasicapi",
+  "version": "1.0.0",
+  "description": "simple node trials",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "HawiCaesar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
